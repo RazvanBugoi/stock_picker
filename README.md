@@ -1,6 +1,6 @@
 # stock_picker
 # Caesar Cipher
-This is an implementation of the Stock [Picker Project](https://www.theodinproject.com/lessons/ruby-stock-picker) in Ruby for The Odin Project
+This is an implementation of the [Stock Picker Project](https://www.theodinproject.com/lessons/ruby-stock-picker) in Ruby for The Odin Project
 
 #### Parameters
 Array
